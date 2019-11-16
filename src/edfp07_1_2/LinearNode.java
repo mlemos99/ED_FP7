@@ -9,7 +9,7 @@ import java.util.Objects;
 
 /**
  *
- * @author User
+ * @author utilizador
  */
 public class LinearNode<T> {
     private T value;

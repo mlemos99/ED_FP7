@@ -7,7 +7,7 @@ package edfp07_5;
 
 /**
  *
- * @author mario
+ * @author utilizador
  */
 public class testeEx5 {
 

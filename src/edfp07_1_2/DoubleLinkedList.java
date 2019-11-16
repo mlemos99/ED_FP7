@@ -10,7 +10,7 @@ import java.util.Iterator;
 
 /**
  *
- * @author User
+ * @author utilizador
  * @param <T>
  */
 public class DoubleLinkedList<T> implements ListADT<T> {

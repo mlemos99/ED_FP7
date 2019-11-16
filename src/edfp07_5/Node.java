@@ -9,7 +9,7 @@ import java.util.Objects;
 
 /**
  *
- * @author mario
+ * @author utilizador
  */
 public class Node<T> {
     private T value;

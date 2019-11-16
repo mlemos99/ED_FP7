@@ -7,7 +7,7 @@ package edfp07_3;
 
 /**
  *
- * @author mario
+ * @author utilizador
  */
 public class SolveTowers {
 

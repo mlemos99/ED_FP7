@@ -9,7 +9,7 @@ package edfp07_1_2;
 
 /**
  *
- * @author User
+ * @author utilizador
  * @param <T>
  */
 public interface OrderedListADT<T> extends ListADT<T> {

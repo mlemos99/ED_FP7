@@ -9,7 +9,7 @@ package edfp07_1_2;
 
 /**
  *
- * @author User
+ * @author utilizador
  * @param <T>
  */
 public class DoubleLinkedOrderesList<T> extends DoubleLinkedList<T> implements OrderedListADT<T> {

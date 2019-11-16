@@ -7,7 +7,7 @@ package edfp07_5;
 
 /**
  *
- * @author mario
+ * @author utilizador
  * @param <T>
  */
 public class SinglyLinkedList<T> {
@@ -40,9 +40,7 @@ public class SinglyLinkedList<T> {
         this.size++;
     }
 
-//    public void add_node(T v){
-//        
-//    }
+
     public void addLast(T v) {
         Node<T> newNode = new Node<>(v, null);
         if (isEmpty()) {
